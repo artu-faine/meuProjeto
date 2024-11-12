@@ -1,3 +1,7 @@
 <?php
 
 echo "alteração";
+
+echo "alteração 2";
+
+echo "alteração 3";
